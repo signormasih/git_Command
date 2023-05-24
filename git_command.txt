@@ -1,0 +1,23 @@
+Git 
+------------
+git init => start using git
+git config --global user.name ----- => set name
+git config --global user.email ----- => set email
+
+git add <fileName> => add file to stage
+
+git add -A => add all file to stage
+
+git commit -m "text commit" => commit files
+
+git reset => Remove all files from the stage
+git reset <fileName>
+
+git checkout <nameBranch> => Entering a branch
+git branch => branch list
+
+git branch -d <nameBranch> => delete branch
+
+git clone
+git push
+git pull
