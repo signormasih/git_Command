@@ -18,6 +18,9 @@ git branch => branch list
 
 git branch -d <nameBranch> => delete branch
 
+git log
+git status
+
 git clone
 git push
 git pull
